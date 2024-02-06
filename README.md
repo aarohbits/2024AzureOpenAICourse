@@ -1,6 +1,3 @@
-This course is Introduction to Azure Open AI. 
-The session will include basic to advanced topics on Azure OpenAI. 
-
 
 This course is Introduction to Azure Open AI. 
 The session will include basic to advanced topics on Azure OpenAI.
