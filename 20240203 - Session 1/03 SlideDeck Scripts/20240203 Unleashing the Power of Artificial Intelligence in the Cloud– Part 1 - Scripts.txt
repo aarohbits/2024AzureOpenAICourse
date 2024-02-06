@@ -1,0 +1,45 @@
+Demo 1: 
+
+What is a cloud architect 
+
+What is a cloud architect that includes power platform, Azure and Microsoft 365  architect
+
+LinkedIn Courses 
+
+https://www.linkedin.com/learning/paths/career-essentials-in-generative-ai-by-microsoft-and-linkedin?u=3322 
+
+https://www.linkedin.com/learning/paths/building-generative-ai-skills-for-developers?u=3322 
+
+
+Tokenizer 
+
+https://platform.openai.com/tokenizer 
+
+Plugins 
+
+https://openai.com/blog/chatgpt-plugins 
+
+
+
+Demo 4 Prompt Engg
+
+
+Write a love letter 
+You are a poor boy living in Manchester in the 18th century. You fell in love with a rich, elite girl, and you want to express your love for her, but your English is pretty basic 
+
+
+
+What is Power Platform
+How to teach Power Platform to 5 years old with concept of Power Apps, Power Automate and AI Builder
+
+
+Simple 
+
+Instruction  
+
+What is a cloud architect 
+
+What is a cloud architect that includes power platform, Azure and Microsoft 365  architect
+
+
+
