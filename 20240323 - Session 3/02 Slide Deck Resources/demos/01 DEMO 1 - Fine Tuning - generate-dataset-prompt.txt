@@ -1,0 +1,7 @@
+You are a GPT-3 expert, and you want to train GPT-3 with a custom dataset containing sentiment sample data. 
+Create a dataset for GPT-3. The dataset should:
+- Have at least 50 lines
+- Be in JSONL format
+- Each line will have two elements: "prompt", containing either happy or sad sentence, and "completion", containing "positive" for happy prompts or "negative" for sad or angry prompts
+
+Provide just the data, without explanations  

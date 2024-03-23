@@ -1,0 +1,11 @@
+
+
+Content Safety 
+
+Endpoint 
+https://contentsafeysgp124.cognitiveservices.azure.com/
+
+
+Key
+
+9ea199a889da47efabffdd092c06b962
