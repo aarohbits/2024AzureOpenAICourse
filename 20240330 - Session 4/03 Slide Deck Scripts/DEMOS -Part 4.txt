@@ -1,0 +1,49 @@
+
+
+Demo 1: Azure Auto ML
+
+aka.ms/bike-rentals
+
+Demo 2: Computer Vision 
+
+Endpoint: 
+https://azcomputervisiondemo.cognitiveservices.azure.com/
+
+Key 
+2a25904ff7f247c8896ecfe5ee1ef28a
+
+
+PowerShell
+
+git clone https://github.com/MicrosoftLearning/AI-900-AIFundamentals ai-900
+
+code . 
+
+
+cd ai-900
+./analyze-image.ps1 store-camera-1.jpg
+
+./analyze-image.ps1 store-camera-2.jpg
+
+
+Demo 3 Form Recog 
+
+
+Endpoint: 
+https://azformrecog123.cognitiveservices.azure.com/
+
+Key 
+c86ae4d0622d427fbaa8283b0ebb16d0
+
+
+git clone https://github.com/MicrosoftLearning/AI-900-AIFundamentals ai-900 
+
+code . 
+
+cd ai-900
+./form-recognizer.ps1
+
+
+Demo 4: 
+
+
