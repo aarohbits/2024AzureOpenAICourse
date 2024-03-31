@@ -15,17 +15,36 @@ The session will include basic to advanced topics on Azure OpenAI.
 ### 16 Mar 2024 (Sat) 
 
  1.  [Slide Deck 16 Feb 2024](<20240316 - Session 2/01 Slide Deck/20240316  Unleashing the Power of Artificial Intelligence in the Cloud– Part 2.pdf>)
+ 
  2.  [Slide Deck Resources Demo with Screenshots](<20240316 - Session 2/02 Slide Deck Resources/20240316 Kick Start Your Azure OpenAI Journey - SCRIPT - Part 2.docx>)
+
  3.  [Slide Deck Code Scripts](<20240316 - Session 2/03 Slide Deck Scripts/DEMOS - Azure OpenAI Part 2.txt>)
+
  4. [YouTube Video - Session 2](https://www.youtube.com/watch?v=M1UUxCSaNMU)
 
 ## Session 3 
 ### 23 Mar 2024 (Sat) 
 
  1.  [Slide Deck 23 Feb 2024](<20240323 - Session 3/01 Slide Deck/20240323 Unleashing the Power of Artificial Intelligence in the Cloud– Part 3.pdf>)
+
  2.  [Slide Deck Resources Demo with Screenshots](<20240323 - Session 3/03 Slide Deck Scripts/20230323  Unleashing the Power of Artificial Intelligence in the Cloud-  SCRIPT - Part 3.docx>)
+
  3.  [Slide Deck Code Scripts](<20240323 - Session 3/02 Slide Deck Resources/Postman Collections Content Safety/Demo Azure OpenAI Content Safety.postman_collection.json>)
- 4. [YouTube Video - Session 3](https://www.youtube.com/watch?v=M1UUxCSaNMU)
+
+ 4. [YouTube Video - Session 3](https://www.youtube.com/watch?v=IE8kEwFqgZo&t=1s)
+
+ ## Session 4 
+### 240 Mar 2024 (Sat) 
+
+ 1.  [Slide Deck 30 Feb 2024](<20240330 - Session 4/01 Slide Deck/20240330 Unleashing the Power of Artificial Intelligence in the Cloud– Part 4.pdf>)
+
+ 2.  [Slide Deck Resources Demo with Screenshots](<20240330 - Session 4/02 Slide Deck Resources/20230330  Unleashing the Power of Artificial Intelligence in the Cloud-  SCRIPT - Part 4.docx>)
+
+ 3.  [Slide Deck Code Scripts](<20240330 - Session 4/03 Slide Deck Scripts/DEMOS -Part 4.txt>)
+
+ 4. [YouTube Video - Session 4](https://www.youtube.com/watch?v=16qlAnwKx40)
+
+
 
 
 
