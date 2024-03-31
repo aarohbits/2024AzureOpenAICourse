@@ -11,7 +11,7 @@ The session will include basic to advanced topics on Azure OpenAI.
  2. [Slide Deck Resources Demo with Screenshots](<02 SlideDeck Resources/20231014 Kick Start Your Azure OpenAI Journey Step by Screen Shots for Demo - Part 1.pdf>)
 
  3. [Slide Deck Code Scripts](<03 SlideDeck Scripts/20240203 Unleashing the Power of Artificial Intelligence in the Cloud– Part 1 - Scripts.txt>)
- 
+
  4. [YouTube Video - Session 1](https://www.youtube.com/watch?v=M1UUxCSaNMU)
 
 ## Session 2
@@ -37,7 +37,7 @@ The session will include basic to advanced topics on Azure OpenAI.
  4. [YouTube Video - Session 3](https://www.youtube.com/watch?v=IE8kEwFqgZo&t=1s)
 
  ## Session 4 
-### 240 Mar 2024 (Sat) 
+### 30 Mar 2024 (Sat) 
 
  1.  [Slide Deck 30 Feb 2024](<20240330 - Session 4/01 Slide Deck/20240330 Unleashing the Power of Artificial Intelligence in the Cloud– Part 4.pdf>)
 
